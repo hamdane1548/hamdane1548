@@ -7,6 +7,4 @@ Je suis un développeur passionné par **Python, JavaScript, Laravel et React**.
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
-## 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=dark)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=dark)
+
