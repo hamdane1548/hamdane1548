@@ -20,10 +20,9 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+212633869178)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdane1548&layout=donut&theme=github_dark&langs_count=6" alt="Top Languages by Repo" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdane1548&layout=donut-vertical&theme=github_dark&langs_count=6&card_width=300" alt="Top Languages by Commit" />
+  ![Rossyn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamdane1548&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true)
 </p>
 
-![Rossyn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamdane1548&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamdane1548&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
