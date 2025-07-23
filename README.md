@@ -1,12 +1,20 @@
-#                   👋 Bienvenue sur mon profil GitHub !  
-Je suis un développeur passionné par **Python, JavaScript, Laravel et React**. 🚀  
+# 😎 Hey Everyone , I'm oussama hamdane
 
-## 🔧 Technologies & Outils  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white
-)
+## 💻 Welcome to My GitHub !
+
+- 💻 Développeur full-stack passionné (Front-end & Back-end)
+- 🔧 Création d'APIs REST robustes et sécurisées
+- 📱 Développement mobile avec une attention portée sur l'expérience utilisateur
+- 📦 Utilisation de Docker pour la conteneurisation et l'organisation des projets
+- 🧠 Capable de modéliser des projets de A à Z avec une architecture claire
+- 🤝 Ouvert à la collaboration et à l'amélioration continue
 
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Rossyn.Rossyn)
+
+### 📬 Contact Me:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oussamahamdane80@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+212633869178)
