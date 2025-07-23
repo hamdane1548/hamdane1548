@@ -21,3 +21,6 @@
 
 ![Rossyn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamdane1548&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true)
 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamdane1548&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
