@@ -44,6 +44,8 @@
 
 
 
+## 🧠 GitHub Activity Graph
+
 [![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=hamdane1548&theme=github-compact)](https://github.com/hamdane1548)
 
 
