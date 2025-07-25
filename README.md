@@ -36,10 +36,11 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+212633869178)
 
 <p align="center">
-  <img src="https://github-readme-stats-hamdane1548s-projects.vercel.app/api?username=hamdane1548&include_all_commits=true&count_private=true&theme=github_dark&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-hamdane.vercel.app/api?username=hamdane1548&include_all_commits=true&count_private=true&theme=github_dark&show_icons=true" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats-hamdane1548s-projects.vercel.app/api/top-langs/?username=hamdane1548&count_private=true&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-hamdane.vercel.app/api/top-langs/?username=hamdane1548&count_private=true&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
+
 
 
 
