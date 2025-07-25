@@ -40,12 +40,3 @@
   
   <img src="https://github-readme-hamdane.vercel.app/api/top-langs/?username=hamdane1548&count_private=true&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
-
-
-
-
-## 🧠 GitHub Activity Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=hamdane1548&theme=github-compact)](https://github.com/hamdane1548)
-
-
