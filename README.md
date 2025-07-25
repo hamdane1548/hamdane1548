@@ -45,8 +45,6 @@
 
 
 
-
-
 [![GitHub Activity Graph](https://github-readme-activity-graph-gl63zxgn2-hamdane1548s-projects.vercel.app/graph?username=hamdane1548&theme=github-compact)](https://github.com/hamdane1548)
 
 
