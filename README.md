@@ -48,4 +48,5 @@
 
 ![QR code Gravatar](https://gravatar.com/breaddeepest0e91c750cd)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamdane1548&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-activity-graph-hamdane.vercel.app/graph?username=hamdane1548&theme=github-compact)](https://github.com/hamdane1548)
+
