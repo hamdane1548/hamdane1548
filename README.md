@@ -41,5 +41,4 @@
   <img src="https://github-readme-hamdane.vercel.app/api/top-langs/?username=hamdane1548&count_private=true&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamdane1548&theme=github_dark&show_icons=true)
 
