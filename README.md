@@ -37,7 +37,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+212633869178)
 <p align="center">
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdane1548&layout=donut&theme=github_dark&langs_count=6" alt="Top Languages by Repo" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdane1548&layout=compact&theme=github_dark&langs_count=6" alt="Top Languages by Repo" />
   <img src="https://github-readme-stats.vercel.app/api?username=hamdane1548&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
