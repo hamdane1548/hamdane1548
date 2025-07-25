@@ -1,6 +1,6 @@
-# 😎 Hey Everyone , I'm oussama hamdane
+# 😎 Hey Everyone, I'm Oussama Hamdane
 
-## 💻 Welcome to My GitHub !
+## 💻 Welcome to My GitHub!
 
 - 💻 Développeur full-stack passionné (Front-end & Back-end)
 - 🔧 Création d'APIs REST robustes et sécurisées
@@ -9,8 +9,7 @@
 - 🧠 Capable de modéliser des projets de A à Z avec une architecture claire
 - 🤝 Ouvert à la collaboration et à l'amélioration continue
 
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Rossyn.Rossyn)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=hamdane1548)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -22,30 +21,4 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) 
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%2304AA6D.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 📬 Contact Me:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oussamahamdane80@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+212633869178)
-<p align="center">
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamdane1548&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats-hamdane1548s-projects.vercel.app/api/top-langs/?username=hamdane1548&count_private=true&layout=compact&theme=github_dark" />
-
-</p>
-
-</p>
-![QR code Gravatar](https://gravatar.com/breaddeepest0e91c750cd)
-
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamdane1548&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge)
