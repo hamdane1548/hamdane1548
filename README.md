@@ -38,7 +38,7 @@
 <p align="center">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hamdane1548&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdane1548&layout=compact&theme=github_dark&langs_count=6" alt="Top Languages by Repo" />
+<img src="https://github-readme-stats-hamdane1548s-projects.vercel.app/api/top-langs/?username=hamdane1548&count_private=true&layout=compact&theme=github_dark" />
 
 </p>
 
