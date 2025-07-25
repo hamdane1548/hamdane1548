@@ -37,8 +37,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats-git-master-hamdane1548s-projects.vercel.app/api?username=hamdane1548&include_all_commits=true&count_private=true&theme=github_dark&show_icons=true" alt="GitHub Stats" />
+  
   <img src="https://github-readme-stats-git-master-hamdane1548s-projects.vercel.app/api/top-langs/?username=hamdane1548&count_private=true&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
+
 
 
 ![QR code Gravatar](https://gravatar.com/breaddeepest0e91c750cd)
