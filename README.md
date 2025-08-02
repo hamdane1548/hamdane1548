@@ -43,6 +43,7 @@
     <img src="https://github-readme-hamdane.vercel.app/api/top-langs/?username=hamdane1548&count_private=true&layout=compact&theme=github_dark" alt="Top Languages" />
 
 </p>
+![Statistiques de commits](https://raw.githubusercontent.com/ton-utilisateur/ton-repo/main/chemin/vers/image.png)
 
 
 
